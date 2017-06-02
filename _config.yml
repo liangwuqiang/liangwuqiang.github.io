@@ -2,3 +2,5 @@ defaults:
   -
     values:
       layout: "book"
+
+theme: jekyll-theme-time-machine
