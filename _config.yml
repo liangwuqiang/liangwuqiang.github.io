@@ -1,4 +1,1 @@
-defaults:
-  -
-    values:
-      layout: "post"
+baseurl: /
